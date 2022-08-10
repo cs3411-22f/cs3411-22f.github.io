@@ -17,7 +17,7 @@ intensive.
 
 Welcome! Great ready for a *deep dive* into what's under the water.
 
-![](../images/os_iceberg.jpg){width="100%"}
+![](../images/os_iceberg.jpg)
 
 <!-- Instructional Team Contact info
 -------------------------------
