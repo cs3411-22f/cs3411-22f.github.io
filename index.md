@@ -20,7 +20,7 @@ layout: home
 </div></div>
 
 
-> This course covers the fundamental concepts of operating systems, focusing on resource management and abstraction. This includes OS structure, processes and thread management, communication with peripherals (I/O), synchronization, deadlocks, memory management, Virtual Machines, cloud infrastructures, and abstractions for cloud computation. The workload for this class is heavy and programming intensive.
+> This course covers the fundamental concepts of operating systems, focusing on resource management and abstraction. This includes OS structure, processes and thread management, communication with peripherals (I/O), synchronization, deadlocks, memory management, Virtual Machines, cloud infrastructures, and abstractions for cloud computation. The workload for this class is heavy and programming intensive. And fun!
 
 
 ## Announcements ##
