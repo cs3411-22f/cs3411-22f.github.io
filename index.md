@@ -8,7 +8,7 @@ layout: home
         <li><b>Prof. Tim Wood</b></li>
         <li><a href="mailto:timwood@gwu.edu">timwood@gwu.edu</a></li>
         <li>Office Hours: TBD, SEH 4580</li>
-        <li>Class: Wednesdays 3:30-6PM in Tompkins 405</li>
+        <li>Class: Tuesday/Thursday 12:45-2PM in Gelman B04</li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
@@ -16,19 +16,20 @@ layout: home
         <li>TBD</li>
         <li><a href="mailto:">TBD</a></li>
         <li>Office Hours: TBD</li>
-        <li>Labs: Mondays 2:10-3:20 and 9-10:10AM in SEH 4040</li>
+        <li>Labs: Thursdays after class</li>
     </ul>
     </div>
 </div></div>
 
 
-> In this course, students will learn how to write object-oriented code using Java. Concepts will focus on object-oriented thinking, software composition, inheritance and polymorphism, and design principles. Programming techniques, assignments and lab exercises will focus on Java, specifically, the language and its core libraries. The course will be conducted lab-style with a mix of lecture, lab assignments and projects. The course will also cover an elementary introduction to the C programming language.
+> This course covers the fundamental concepts of operating systems, focusing on resource management and abstraction. This includes OS structure, processes and thread management, communication with peripherals (I/O), synchronization, deadlocks, memory management, Virtual Machines, cloud infrastructures, and abstractions for cloud computation. The workload for this class is heavy and programming intensive.
 
 
 ## Announcements ##
 - This website is under construction.
+- To see last year's class site [go here](https://www2.seas.gwu.edu/~gparmer/classes/2021-09-01-Operating-Systems.html)
 
-## Schedule  ##
+<!-- ## Schedule  ##
 
 <div style="font-size:90%">
 
@@ -51,4 +52,4 @@ layout: home
 | Week 15 |  |
 | Week 16 |  |
 
-</div>
+</div> -->
