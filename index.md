@@ -5,18 +5,16 @@ layout: home
 <div class="wrapper" markdown="0"><div class="footer-col-wrapper">
 <div class="footer-col two-col-1">
     <ul class="contact-list">
-        <li><b>Prof. Tim Wood</b></li>
+        <li><b><a href="https://faculty.cs.gwu.edu/timwood">Prof. Tim Wood</a></b></li>
         <li><a href="mailto:timwood@gwu.edu">timwood@gwu.edu</a></li>
-        <li>Office Hours: TBD, SEH 4580</li>
+        <li>Office Hours: TBD, SEH 4580/Zoom</li>
         <li>Class: Tuesday/Thursday 12:45-2PM in Gelman B04</li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
-        <li>TBD</li>
-        <li><a href="mailto:">TBD</a></li>
-        <li>Office Hours: TBD</li>
-        <li>Labs: Thursdays after class</li>
+        <li>TA: Yuan Gao</li>
+        <li>UTAs/LA: Alex Coleman, Aisha Mohamad, Austin Theriault </li>
     </ul>
     </div>
 </div></div>
