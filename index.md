@@ -7,14 +7,14 @@ layout: home
     <ul class="contact-list">
         <li><b><a href="https://faculty.cs.gwu.edu/timwood">Prof. Tim Wood</a></b></li>
         <li><a href="mailto:timwood@gwu.edu">timwood@gwu.edu</a></li>
-        <li>Office Hours: TBD, SEH 4580/Zoom</li>
+        <li>Office Hours: Will be posted</li>
         <li>Class: Tuesday/Thursday 12:45-2PM in Gelman B04</li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li>TA: Yuan Gao</li>
-        <li>UTAs/LA: Alex Coleman, Aisha Mohamad, Austin Theriault </li>
+        <li>UTAs/LA: Alex Coleman, Aisha Mohammed, Austin Theriault </li>
     </ul>
     </div>
 </div></div>
