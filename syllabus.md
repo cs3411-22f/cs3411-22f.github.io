@@ -47,7 +47,7 @@ Fall 2022 Class Time/Location:
     -   Sreya's OHs: Friday, 11-1 -->
 
 > Makes sure you're [properly preparing and presenting yourself at
-> Office Hours](../resources/2021-09-20-Office-Hours-HOWTO.html).
+> Office Hours](https://www2.seas.gwu.edu/~gparmer/resources/2021-09-20-Office-Hours-HOWTO.html).
 
 Your Immediate TODO
 -------------------
@@ -91,6 +91,20 @@ and lab.
     second half of the class, you will have a large group project
     involving kernel programming.
 
+**Course Topics** - The class will cover topics about the design and implementation of operating systems, roughly following this schedule:
+-   Class Introduction, OS definition and history
+-   System structure and protection
+-   System structure and processes
+-   IPC and threads
+-   Synchronization
+-   Deadlocks
+-   Scheduling
+-   Real-Time Scheduling
+-   Memory Management
+-   Memory Management II
+-   File Systems APIs and Abstractions
+-   File Systems Design and Implementation
+
 ### Direct Instruction and Independent Learning
 
 Each semester, you're expected to spend *at least*:
@@ -125,7 +139,7 @@ exposed or symptomatic.
 **Responsibilities** - Students must
 
 -   Conduct your online behavior in accordance with the class' ["*Online
-    Social Contract*"](../resources/2020-08-01-Online-Conduct.html).
+    Social Contract*"](https://www2.seas.gwu.edu/~gparmer/resources/2020-08-01-Online-Conduct.html).
 -   Attend all classes unless you are sick or there is an emergency in
     which cases you must contact the professor via email before class.
 -   Interact, ask questions, and generally participate in class
@@ -160,7 +174,7 @@ anonymous feedback. Gabe will take this feedback seriously.
 *Community and online social contract.* As an increased part of the
 class is online, it is necessary that everyone conduct themselves
 respectfully and productively online. Please see the class' ["*Online
-Social Contract*"](../resources/2020-08-01-Online-Conduct.html). The
+Social Contract*"](https://www2.seas.gwu.edu/~gparmer/resources/2020-08-01-Online-Conduct.html). The
 class will have a zero-tolerance approach toward disrespectful conduct,
 or harassment.
 
@@ -185,14 +199,14 @@ job. Not impressing them hurts your future opportunities.
 ### Class Technologies
 
 How you comport yourself online in the class just adhere to our [online
-social contract](../resources/2020-08-01-Online-Conduct.html). For the
+social contract](https://www2.seas.gwu.edu/~gparmer/resources/2020-08-01-Online-Conduct.html). For the
 class we'll use the following technologies for the specified purposes:
 
 -   *Github* - Assignments are retrieved from github classroom using a
     link provided on Piazza. They are submitted via `push`es to github.
     See the details on submission and on how to use github below.
 
--   *Discord* - Find the link to the class' Discord server on Piazza.
+-   *Discord* - Find the link to the class' Discord server in the Google Drive.
     Office hours, informal discussion, and other online help will use
     various rooms associated with the OS Discord. The discussion on
     Discord is, by default, *synchronous* and *transient*. Synchronous
@@ -202,7 +216,7 @@ class we'll use the following technologies for the specified purposes:
     means that no-one in the class (including the instructional staff)
     are expected to see Discord discussion, in general.
 
-    However, we've added support (thanks Ethan!) to aggregate
+    <!-- However, we've added support (thanks Ethan Baron!) to aggregate
     discussions that we want to be more persistent. Pinned comments in
     the `#qna` channel will be posted in `#qna-archive`. Everyone *is*
     expected to follow these discussions as they might include
@@ -210,7 +224,7 @@ class we'll use the following technologies for the specified purposes:
     include asking/answering these questions. Additionally, these
     questions and answers should be summarized and placed into the
     \*\*qna\* google doc. Major brownie points for populating that
-    document.
+    document. -->
 
     Note: we *cannot* guarantee super-fast responses. In general, we
     will guarantee that we will reply in a batch, once per day.
@@ -239,9 +253,9 @@ Office Hours
 ------------
 
 You must [properly prepare for and present yourself at Office
-Hours](../resources/2021-09-20-Office-Hours-HOWTO.html).
+Hours](https://www2.seas.gwu.edu/~gparmer/resources/2021-09-20-Office-Hours-HOWTO.html).
 
-Experiments
+<!-- Experiments
 -----------
 
 Part of keeping a course "fresh" and successful is trying new things,
@@ -249,19 +263,10 @@ and keeping the things that work. Please keep in mind that I might not
 have fully ironed out the kinks in each of these, so your feedback is
 valuable. Given this, the experiments I'm running this year include:
 
-**Discord instead of Piazza.** We've received a lot of complaints about
-Piazza. Thus we're seeing if we can more appropriately replace it with
-Discord + the `class-information` and `qna` google drive documents.
-
-**Token extra credit for error.** If you find an error in this webpage,
-homeworks, or the `class-information`, report using the "class bug
-report" form referenced in the latter document for a token amount of
-extra-credit (if you're the first to report it).
-
 **Mixing synchronous and asynchronous instructional material.** Some
 lecture material will be delivered in class, other via asynchronous
 video. Particularly challenging material will be delivered via video, so
-enable the lecture time to focus on discussion and clarification.
+enable the lecture time to focus on discussion and clarification. -->
 
 <!-- Course Schedule
 ---------------
@@ -298,18 +303,16 @@ lecture's `pdf`s are on the following topics:
 -   File Systems APIs and Abstractions
 -   File Systems Design and Implementation -->
 
-Course Material
+ Course Material
 ---------------
 
+<!--
 **Exercises.** The following exercises will help you understand the
 corresponding course topics.
 
-  ----------------------------------------------------------------------------------------------------------------
-  Course topic                        Exercise
-  ----------------------------------- ----------------------------------------------------------------------------
-  System structure                    [Understanding calling
-                                      conventions](https://github.com/gparmer/calling-conventions)
-
+|  Course topic                       |  Exercise |
+|  -----------------------------------| ----------------------------------------------------------------------------|
+|  System structure                   | [Understanding calling conventions](https://github.com/gparmer/calling-conventions)
   Device interaction: polling         [`faux_s`, section "Polling
   vs. interrupts                      vs. Interrupts"](https://github.com/gparmer/faux_s)
 
@@ -335,7 +338,7 @@ corresponding course topics.
 
   File system, hierarchical namespace Growing trees in [a green, new
   API                                 UNIX!](https://github.com/gparmer/the_green_new_unix)
-  ----------------------------------------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------------------------------------- -->
 
 **Required reading.** You *must* read through the material at the repo
 for [class resources](https://github.com/gwu-cs-os/resources). This
@@ -379,9 +382,7 @@ If you're having trouble with C, here is a list of references:
     problems](https://www2.seas.gwu.edu/~gparmer/courses/ll-probs.pdf).
     These are reproduced from [here](https://cslibrary.stanford.edu/).
     The Linked List problem sets are especially useful.
--   A [few](https://www.seas.gwu.edu/~simhaweb/cs143/lectures.html)
-    [resources](https://faculty.cs.gwu.edu/~timwood/wiki/doku.php/teaching:f2013:cs2113:home)
-    from our Software Engineering course (i.e. csci2113).
+-   [Beej's Guide to C Programming](https://beej.us/guide/bgc/) is a comprehensive guide from simple to complex.
 -   If you're having trouble understanding what a specific declaration
     is in C, use the `cdecl` command, or, if it isn't installed, you can
     use the `cdecl` [webpage](https://cdecl.org/).
@@ -446,23 +447,21 @@ simple rules when using `git`:
     code doesn't compile, include `DOES NOT COMPILE` in the commit
     message body. Many commits made when pair programming will use this.
 
-Your commit logs will *not* feed directly into your grade. However, they
-will play a role in how we determine groups, and they might lead to
-meetings to discuss your contributions.
+Your commit logs *may* affect your grade in the class.
 
 Grading
 -------
 
-Only talk about your grades with Tim. No other instructional staff have
+Only talk about your grades with Tim. Other instructional staff do not have
 access to your grades.
 
 Grades will be assigned with the following proportions:
 
-  Category        Percentage
-  --------------- ------------
-  Homeworks       55%
-  Tests/Quizzes   30%
-  Participation   15%
+ | Category        | Percentage|
+|  --------------- | ------------ |
+|  Homeworks       | 55% |
+|  Tests/Quizzes   | 30% |
+|  Participation   | 15% |
 
 -   Homeworks include programming assignments, written responses, and a
     long final programming project. Each of these components *can*
@@ -499,7 +498,7 @@ the project).
     makes it compile" is not an excuse. You should always do a fresh
     `git clone` of your submitted repo, to make sure that it compiles
     and your tests work. Make sure it works in the VM using the version
-    of the compiler we use (i.e. Ubuntu 18.04). If you don't test in
+    of the compiler we use (i.e. Ubuntu 20.04). If you don't test in
     this specific environment, *your code will likely fail compilation*.
 
 Your grade can be minimum *0%*, but your maximum grade can be higher
@@ -532,15 +531,15 @@ You get *0* credit for late work that is unexcused. However, once the
 grades are released, you can *resubmit* your code within *seven days*,
 rounded up to the closest midnight. For example, if the grades are
 released at 2:30pm on the 8th, resubmissions are due at midnight on the
-15th (i.e. [\\(8 + 7 = 15\\)]{.math .inline}). You will get *0* credit
+15th (i.e. `8 + 7 = 15`). You will get *0* credit
 for submissions after this date.
 
 We will grade the last commit before the resubmission deadline, and you
 will receive 50% of the credit on top of the original grade, rounded up
 to the nearest percent. For example, if you got a *43%* on the initial
 deadline, and resubmit and get a *68%*, your final grade
-([\\(g\\)]{.math .inline}) will be [\\(g = \\lceil 43 + \\frac{(68 -
-43)}{2} \\rceil = 56\\)]{.math .inline}.
+(`g`) will be `g = ceil(43 + (68 -
+43)/2) = 56`.
 
 Do *not* come to rely on the resubmission process. Homeworks are due
 every week or every other week, so it is very harmful to get behind on
@@ -553,7 +552,7 @@ code with your peers even *after* it is due.
 **Testing your implementation:**
 
 When you are required to test your code, please note that our test cases
-will best *every* edge case in the implementation. If you do not write
+will test *every* edge case in the implementation. If you do not write
 code to test the edge-cases of the specifications, then you *will* lose
 credit. This is the largest reason why students get lower grades than
 they believe they deserve. If you believe that an error was made in
@@ -566,7 +565,7 @@ debugging below.
 Any homework graded by demo (i.e. the project) must adhere to style
 guidelines, and you must *curate* your code. It must be simple,
 readable, and clean. See [this
-post](https://www2.seas.gwu.edu/~gparmer/posts/2016-03-07-code-craftsmanship.html)
+post](https://www2.seas.gwu.edu/~gparmer/posts/2016-03-07-code-craftsmanship.html).
 For some thoughts on how to make your code more readable, see the
 [Composite Style
 Guide](https://github.com/gparmer/composite/blob/ppos/doc/style_guide/composite_coding_style.pdf).
@@ -622,12 +621,12 @@ learning objectives in a course like this. All future CS students will
 be less prepared for competing for the best jobs.
 
 Please see additional information about [university
-policies](../resources/2020-08-01-University-Policies.html).
+policies](https://www2.seas.gwu.edu/~gparmer/resources/2020-08-01-University-Policies.html).
 
 ### University Policies
 
 Please find details about [university
-policies](../resources/2020-08-01-University-Policies.html) regarding
+policies](https://www2.seas.gwu.edu/~gparmer/resources/2020-08-01-University-Policies.html) regarding
 
 -   the use and reuse of class materials (e.g. videos),
 -   details on academic integrity,

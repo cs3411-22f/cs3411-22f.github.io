@@ -31,7 +31,7 @@ layout: home
 
 <div style="font-size:90%">
 
-| Week | Topic
+| Week | Topic |
 |:---  |:--- |
 | Week 1 |  |
 | Week 2 |  |
