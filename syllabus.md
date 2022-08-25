@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-permalink: /sample/
+permalink: /syllabus/
 ---
 
 CSCI 3411 - Operating Systems
@@ -49,20 +49,6 @@ Fall 2022 Class Time/Location:
 > Makes sure you're [properly preparing and presenting yourself at
 > Office Hours](https://www2.seas.gwu.edu/~gparmer/resources/2021-09-20-Office-Hours-HOWTO.html).
 
-Your Immediate TODO
--------------------
-
-1.  Accept the invitation to the class' google drive. Find the
-    `class-information` document which starts with a number of links
-    that you can use to proceed through this list.
-2.  Complete the "getting to know you" survey *now*. We cannot grade
-    your work without this information.
-3.  Find the Discord invite to our server, and join.
-4.  Find a link to the first homework (`HW0`) via github classroom.
-5.  Please read about installing the class' infrastructure: Ubuntu 20
-    LTS (see the [class
-    resources](https://github.com/gwu-cs-os/resources) for guidance) and
-    `#tech-support` on discord if you have any issues.
 
 Course Overview
 ---------------

@@ -27,6 +27,22 @@ layout: home
 - This website is under construction.
 - To see last year's class site [go here](https://www2.seas.gwu.edu/~gparmer/classes/2021-09-01-Operating-Systems.html)
 
+Your Immediate TODO
+-------------------
+
+1.  Accept the invitation to the class' google drive. Find the
+    `class-information` document which starts with a number of links
+    that you can use to proceed through this list.
+2.  Complete the "getting to know you" survey *now*. We cannot grade
+    your work without this information.
+3.  Find the Discord invite to our server, and join.
+4.  Find a link to the first homework (`HW0`) via github classroom.
+5.  Please read about installing the class' infrastructure: Ubuntu 20
+    LTS (see the [class
+    resources](https://github.com/gwu-cs-os/resources) for guidance) and
+    `#tech-support` on discord if you have any issues.
+
+
 <!-- ## Schedule  ##
 
 <div style="font-size:90%">
