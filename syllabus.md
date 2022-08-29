@@ -503,15 +503,7 @@ failed this class is by not trying or by cheating**.
 
 **Late Policy**:
 
-The only acceptable excuses for late submissions are medical, family,
-and related issues. Generally unacceptable excuses include:
-
--   your computer failing (we're using github for a reason),
--   lots of midterms,
--   forgetting to `git add` necessary files, or forgetting to `git push`
-    (proper `git` usage is a *requirement* for the class), and
--   you worked very hard and put a lot of time and effort in, but still
-    aren't quite "there" yet.
+You are allowed **one** 48 hour extension which can be used on any homework deadline, but not homework resubmissions (see below) or the project. To request an extension you must [complete this form](https://forms.gle/Jwa6jWPF3FX4FcBH9) within 24 hours of the due date. Note that for group assignments, all students must submit the form. If you do not use your extension by the end of the semester, then it will be converted to bonus participation points.
 
 You get *0* credit for late work that is unexcused. However, once the
 grades are released, you can *resubmit* your code within *seven days*,
@@ -521,11 +513,10 @@ released at 2:30pm on the 8th, resubmissions are due at midnight on the
 for submissions after this date.
 
 We will grade the last commit before the resubmission deadline, and you
-will receive 50% of the credit on top of the original grade, rounded up
-to the nearest percent. For example, if you got a *43%* on the initial
+will the average of your original and resubmitssion grade. For example, 
+if you got a *43%* on the initial
 deadline, and resubmit and get a *68%*, your final grade
-(`g`) will be `g = ceil(43 + (68 -
-43)/2) = 56`.
+(`g`) will be `g = ceil( (68 + 43)/2 ) = 56`.
 
 Do *not* come to rely on the resubmission process. Homeworks are due
 every week or every other week, so it is very harmful to get behind on
@@ -647,7 +638,7 @@ policies](https://www2.seas.gwu.edu/~gparmer/resources/2020-08-01-University-Pol
 
 ------------------------------------------------------------------------
 
-© 2015 Gabriel Parmer and Timothy Wood
+© 2015-2022 Gabriel Parmer and Timothy Wood
 
 <!-- :::
 
