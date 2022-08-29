@@ -454,12 +454,9 @@ Grades will be assigned with the following proportions:
     involve individual *interviews* about your code and design.
 -   There will be a midterm and a final. If students show up late
     consistently, there will also be unannounced quizzes during class.
--   Participation includes 1. lecture form questions and feedback (which
-    will be selected randomly for grading), 2. in-lecture and in-lab
-    participation which includes showing up, and providing thoughtful
-    questions and answers. In short, participation will be graded not
-    only on attendance, but *also on interactivity and involvement*
-    during class and lab.
+-   For full credit, you must acheive 2 participation points each week.
+    You will receive 1 participation point each week for attending Lab. 
+    Another point can be earned by actively participating in class or on discord.
 
 If you cannot make it to any aspect of the class, or cannot meet any
 deadline, please let me know as soon as possible.
