@@ -452,8 +452,7 @@ Grades will be assigned with the following proportions:
 -   Homeworks include programming assignments, written responses, and a
     long final programming project. Each of these components *can*
     involve individual *interviews* about your code and design.
--   There will be a midterm and a final. If students show up late
-    consistently, there will also be unannounced quizzes during class.
+-   There will be a midterm and a series of quizzes in the second half of the semester (instead of a final).
 -   For full credit, you must acheive 2 participation points each week.
     You will receive 1 participation point each week for attending Lab. 
     Another point can be earned by actively participating in class or on discord.
