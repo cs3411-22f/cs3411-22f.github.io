@@ -81,3 +81,24 @@ Your Immediate TODO
 | 12/8 |  | [Security](https://www.youtube.com/watch?v=IAnggHc0_aA) |
 
 </div> 
+
+## Assignemnts
+Full info on all assignments is available to students in the class drive. **These dates may be incorrect -- see the class information file for the latest information!**
+ - HW 0: Academic Integrity - due Sunday September 4, 2022
+ - HW 1: C Data Structures - due Monday September 19, 2022
+   - Resubmit by Friday September 30, 2022
+ - HW 2: xv6 Process Status - due Monday October 10, 2022 
+   - Note: You may work individually or with one other student. After you set a team using the  - form you may not change!
+   - Submit by Friday 11:59PM to get +5pt bonus
+ - HW 3: xv6 Threading - due 10/30
+   - Submit 72 hours early to get +5pt bonus
+ - HW 4: xv6 Locks - due 11/11
+   - Submit 72 hours early to get +5pt bonus
+ - HW 5: xv6 Memory Management - due 12/4
+   - Note: This is an individual assignment!
+   - Submit 72 hours early to get +5pt bonus
+ - Project: xv6 Containers - due finals week
+   - Create 3 person teams - 11/6
+   - Progress Check In - 12/1
+   - Code Deadline - 12/14
+   - Demos - 12/15-12/16
