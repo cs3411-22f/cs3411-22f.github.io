@@ -445,15 +445,17 @@ Grades will be assigned with the following proportions:
 
  | Category        | Percentage|
 |  --------------- | ------------ |
-|  Homeworks       | 55% |
-|  Tests/Quizzes   | 30% |
+|  Homeworks       | 35% |
+|  Project         | 20% |
+|  Tests           | 20% |
+|  Quizzes         | 10% |
 |  Participation   | 15% |
 
 -   Homeworks include programming assignments, written responses, and a
     long final programming project. Each of these components *can*
     involve individual *interviews* about your code and design.
 -   There will be a midterm and a series of quizzes in the second half of the semester (instead of a final).
--   For full credit, you must acheive 2 participation points each week.
+-   For full credit, you must achieve 2 participation points each week.
     You will receive 1 participation point each week for attending Lab. 
     Another point can be earned by actively participating in class or on discord.
 
@@ -512,7 +514,7 @@ We will grade the last commit before the resubmission deadline, and you
 will the average of your original and resubmitssion grade. For example, 
 if you got a *43%* on the initial
 deadline, and resubmit and get a *68%*, your final grade
-(`g`) will be `g = ceil( (68 + 43)/2 ) = 56`.
+(`g`) will be `g = ceil( (68 + 43)/2 ) = 56`. If your resubmission grade is lower, you will retain your original score.
 
 Do *not* come to rely on the resubmission process. Homeworks are due
 every week or every other week, so it is very harmful to get behind on
